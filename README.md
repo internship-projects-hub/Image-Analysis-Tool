@@ -2,7 +2,6 @@
 
 
 
-# Image Analysis Tool
 
 A lightweight image analysis tool for processing image files and computing pixel-level statistics.
 
